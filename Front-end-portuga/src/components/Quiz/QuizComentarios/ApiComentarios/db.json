@@ -1,0 +1,34 @@
+{
+  "CommentList": [
+    {
+      "id": 1,
+      "comment": "Otimo questionario, parabéns squad 4!!",
+      "commentId": 1,
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "comment": "Estou com uma dúvida, alguém poderia me ajudar?",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "comment": "Sou professor e adminstrador do site, em que posso ajudar-lo ?",
+      "newComment": "",
+      "parentId": 2,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Phillip Jacobs",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/256/7167/7167883.png"
+    },
+    {
+      "id": 2,
+      "name": "Todd Mitchell",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/256/7167/7167883.png"
+    }
+  ]
+}

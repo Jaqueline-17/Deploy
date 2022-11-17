@@ -1,0 +1,47 @@
+main{
+    background-color: #fff;
+    
+}
+
+.containerCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+
+.container-fluid{
+    display: flex;
+    
+}
+
+
+
+section{
+    padding: 6rem;
+    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+hr{
+    border: 1px solid;
+    color:rgba(27, 221, 43, 0.733);
+    
+}
+
+.cardMenu{
+    display: flex;
+    margin: 8rem;
+    margin-left: -3px;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}

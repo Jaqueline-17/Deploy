@@ -1,0 +1,29 @@
+#comentario {
+    background-color: whitesmoke;
+    margin-top: 1%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+.boxFormulario {
+    margin-top: none;
+    width: 550px;
+    padding: 25px;
+}
+
+.form-monitoria {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.foto {
+    width: 350px;
+    margin-left: 20%;
+    border-radius: 10px;
+}
+
+#btn-enviar {
+    float: left;
+}
